@@ -1,9 +1,14 @@
 Testing : <br>
 
-Nama Projek : Testing <br>
+Nama Projek : SMPLN <br>
 
 Tarikh  Projek : Testing <br>
 
-Ahli  Projek : Akmal <br>
-               Diana <br>
-               Dr Rafida <br>
+Ahli  Projek : <br>
+Akmal <br>
+Diana <br>
+Dr Rafida <br>
+
+Programming : <br>
+PHP<br>
+Java<br>
